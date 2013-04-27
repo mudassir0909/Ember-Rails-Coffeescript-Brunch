@@ -6,5 +6,6 @@ require('models')
 require('routes')
 require('router')
 require('store')
+require('views')
 
 App.initialize()
