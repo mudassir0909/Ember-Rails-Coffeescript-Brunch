@@ -1,10 +1,8 @@
-<ul>
-<li> [Rails](http://rubyonrails.org/) as Backend
-<li> [EmberJS](http://emberjs.com/) as Frontend
-<li> [Brunch](http://brunch.io/) as Assembler
-<li> [Coffeescript](http://coffeescript.org/) support
-<li> [Twitter-Bootstrap](http://twitter.github.io/bootstrap/) for UI styling
-</ul>
+[Rails](http://rubyonrails.org/) as Backend<br>
+[EmberJS](http://emberjs.com/) as Frontend<br>
+[Brunch](http://brunch.io/) as Assembler<br>
+[Coffeescript](http://coffeescript.org/) support<br>
+[Twitter-Bootstrap](http://twitter.github.io/bootstrap/) for UI styling
 
 Navigate into frontend folder and execute
 <pre>
