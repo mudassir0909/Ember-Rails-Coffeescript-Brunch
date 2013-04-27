@@ -26,7 +26,7 @@ exports.config =
           ]
 
     stylesheets:
-      defaultExtension: 'css'
+      defaultExtension: 'scss'
       joinTo: 'stylesheets/app.css'
       order:
         before: ['vendor/styles/bootstrap.css']
