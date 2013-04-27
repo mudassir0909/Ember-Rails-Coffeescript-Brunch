@@ -1,13 +1,22 @@
-Navigate into frontend folder and execute
+<ul>
+<li> Rails as Backend
+<li> EmberJS as Frontend
+<li> Brunch as Assembler
+<li> Coffeescript support
+<li> Twitter-Bootstrap for UI styling
+</ul>
 
-  $ npm install
-  $ brunch watch
+Navigate into frontend folder and execute
+<pre>
+$ npm install
+$ brunch watch
+</pre>
 
 Navigate into backend folder and execute
 
-  $ bundle install
-  $ bundle exec rails s
+<pre>
+$ bundle install
+$ bundle exec rails s
+</pre>
 
-hit in the browser http://localhost:3000 and see the application in action Cheers ! :)
-
-Author: Mudassir
+Visit http://localhost:3000 and see the application in action Cheers ! :)
