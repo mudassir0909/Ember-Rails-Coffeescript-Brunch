@@ -1,8 +1,28 @@
-<div class="container-fluid">
-  <div class="hero-unit">
-    Application View
-    <div class="well">
-      {{outlet}}
+<div class="nav-bar">
+    <div class="nav-bar-inner">
+
+        <span class="element">Product Name</span>
+
+        <span class="divider"></span>
+
+        <ul class="menu">
+            <li><a href="#">Item1</a></li>
+            <li><a href="#">Item2</a></li>
+            <li><a href="#">Item3</a></li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+  <div class="page">
+    <div class="page-header">
+      <div class="page-header-content">
+        <h1>Application View</h1>
+      </div>
+    </div>
+    <div class="page-region">
+      <div class="page-region-content">
+        {{outlet}}
+      </div>
     </div>
   </div>
 </div>
