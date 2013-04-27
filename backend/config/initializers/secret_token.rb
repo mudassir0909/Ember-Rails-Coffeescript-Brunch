@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Mathwhiz::Application.config.secret_token = 'a94bf1112d1719e9608304fa27f0a2699eb185e3ba251d74b67d404c4babf579c6579c83437ed7527a05f09bea44e2fda92802e67064aa5ecfe928c07c84cebb'
+App::Application.config.secret_token = 'a94bf1112d1719e9608304fa27f0a2699eb185e3ba251d74b67d404c4babf579c6579c83437ed7527a05f09bea44e2fda92802e67064aa5ecfe928c07c84cebb'
