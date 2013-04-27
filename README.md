@@ -1,9 +1,9 @@
 <ul>
-<li> Rails as Backend
-<li> EmberJS as Frontend
-<li> Brunch as Assembler
-<li> Coffeescript support
-<li> Twitter-Bootstrap for UI styling
+<li> [Rails](http://rubyonrails.org/) as Backend
+<li> [EmberJS](http://emberjs.com/) as Frontend
+<li> [Brunch](http://brunch.io/) as Assembler
+<li> [Coffeescript](http://coffeescript.org/) support
+<li> [Twitter-Bootstrap](http://twitter.github.io/bootstrap/) for UI styling
 </ul>
 
 Navigate into frontend folder and execute
