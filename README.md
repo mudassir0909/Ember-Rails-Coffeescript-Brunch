@@ -1,13 +1,20 @@
-Navigate into frontend folder and execute
+[Rails](http://rubyonrails.org/) as Backend<br>
+[EmberJS](http://emberjs.com/) as Frontend<br>
+[Brunch](http://brunch.io/) as Assembler<br>
+[Coffeescript](http://coffeescript.org/) support<br>
+[Metro UI CSS](http://metroui.org.ua/) for UI styling
 
-  $ npm install
-  $ brunch watch
+Navigate into frontend folder and execute
+<pre>
+$ npm install
+$ brunch watch
+</pre>
 
 Navigate into backend folder and execute
 
-  $ bundle install
-  $ bundle exec rails s
+<pre>
+$ bundle install
+$ bundle exec rails s
+</pre>
 
-hit in the browser http://localhost:3000 and see the application in action Cheers ! :)
-
-Author: Mudassir
+Visit http://localhost:3000 and see the application in action Cheers ! :)
