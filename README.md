@@ -2,6 +2,7 @@
 [EmberJS](http://emberjs.com/) as Frontend<br>
 [Brunch](http://brunch.io/) as Assembler<br>
 [Coffeescript](http://coffeescript.org/) support<br>
+[SASS](http://sass-lang.com/) support<br>
 [Metro UI CSS](http://metroui.org.ua/) for UI styling
 
 Navigate into frontend folder and execute
